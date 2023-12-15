@@ -32,6 +32,20 @@ header .lines{
     flex-direction: column;
     justify-content: center;
 }
+.about-text{
+    box-sizing: border-box;
+    margin: 0 23rem;
+}
+.about-description{
+    text-align: center;
+}
+.my-skills{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    justify-content: space-between;
+}
 .project-grid{
     justify-content: space-evenly;
     display:grid;
